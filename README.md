@@ -37,6 +37,7 @@ dataset/
       Greening/
       Healthy/
 ```
+![Uploading image.png…]()
 
 Each folder represents a class, and contains corresponding leaf images.
 
